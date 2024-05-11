@@ -84,7 +84,7 @@ The text preprocessing steps included the following:
 
 The distributions for normalized word_share do overlap on the far right-hand side (i.e. there are a lot of questions with high word similarity). The average word share and Common no. of words of qid1 and qid2 is more when they are duplicates (Similar).
 
-![is_duplicated and token_sort_ratio after text processing](viz_before.png)
+![is_duplicated and token_sort_ratio after text processing](viz_after.png)
 
 After performing advanced feature engineering it can be noted that the data sample has less overlap in its distribution.
 
