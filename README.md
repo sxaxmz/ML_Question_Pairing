@@ -88,7 +88,7 @@ The distributions for normalized word_share do overlap on the far right-hand sid
 
 ![is_duplicated and token_sort_ratio after text processing](viz_after.png)
 
-After performing advanced feature engineering it can be noted that the data sample has less overlap in its distribution.
+After performing advanced feature engineering it can be noted that the data sample has less overlap in its distribution, and both values (duplicated and not duplicated questions) are well dsitributed.
 
 t-SNE (t-distributed Stochastic Neighbor Embedding):
 ![TSNE Visualization of high dimensionality data](tsne.png)
