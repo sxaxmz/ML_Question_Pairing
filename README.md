@@ -71,6 +71,8 @@ The below ratios were computed in the text_process.py during advanced feature en
 - **abs_len_diff:** Abs. length differenceabs_len_diff = abs(len(q1_tokens) - len(q2_tokens))
 - **mean_len:** Average Token Length of both Questionsmean_len = (len(q1_tokens) + len(q2_tokens))/2
 
+![Visualize The Variables Through The Add Features](advanced_feature_eng_viz.png)
+
 The text preprocessing steps included the following:
 - Removing HTML tags.
 - Removing Punctuation.
